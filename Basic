@@ -1,0 +1,23 @@
+Write a C program that takes a three-digit integer as input and prints each digit separately.
+The program should extract and display the first digit, second digit, and third digit of the given number.
+Examples
+Example 1:
+
+Input
+
+100
+Output
+
+First number : 1 
+second number : 0 
+third number : 0
+Example 2:
+
+Input
+
+555
+Output
+
+First number : 5 
+second number : 5 
+third number : 5
