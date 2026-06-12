@@ -4,11 +4,11 @@ It checks **username**, **password**, and **captcha** — if all are correct, us
 
 ---
 
-## 📋 Features
-✅ Username, Password, and Captcha verification  
-✅ Step-by-step nested authentication  
-✅ User-friendly console interface  
-✅ Demonstrates use of `strcmp()` and conditional logic  
+##  Features
+Username, Password, and Captcha verification  
+Step-by-step nested authentication  
+User-friendly console interface  
+Demonstrates use of `strcmp()` and conditional logic  
 
 ---
 
