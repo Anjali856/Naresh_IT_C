@@ -1,10 +1,10 @@
-# 🗓️ Days to Years, Months, and Days Converter in C
+#  Days to Years, Months, and Days Converter in C
 
 This simple C program converts a given total number of days into **years, months, and remaining days**.
 
 ---
 
-## 📘 Description
+# Description
 
 The program takes the total number of days as input from the user and calculates:
 
