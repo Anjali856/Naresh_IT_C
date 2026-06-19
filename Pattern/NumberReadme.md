@@ -1,8 +1,8 @@
-# 🔢 Number Grid in C
+#  Number Grid in C
 
 This repository contains a simple **C program** that prints a grid of sequential numbers using nested loops.
 
-## 📘 Overview
+##  Overview
 
 The program prints numbers from **1 to 20** arranged in a **4×5 grid** format, using two nested `for` loops.
 
