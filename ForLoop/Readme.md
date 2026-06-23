@@ -11,7 +11,7 @@ Demonstrates use of `strcmp()` and conditional logic
 
 ---
 
-## 🧠 Concepts Used
+##  Concepts Used
 - String Handling (`strcmp`, `scanf`, `printf`)  
 - Conditional Statements (`if`, `else if`, `else`)  
 - Input / Output Operations  
