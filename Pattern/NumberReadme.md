@@ -6,7 +6,7 @@ This repository contains a simple **C program** that prints a grid of sequential
 
 The program prints numbers from **1 to 20** arranged in a **4×5 grid** format, using two nested `for` loops.
 
-### 🧾 Example Output
+### Example Output
 
 #Output
 ----------------
