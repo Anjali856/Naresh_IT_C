@@ -2,8 +2,7 @@
 A simple C program that simulates a basic **login system** like IRCTC.  
 It checks **username**, **password**, and **captcha** — if all are correct, user gets access!
 
-
-##  Features
+  Features
 Username, Password, and Captcha verification  
 Step-by-step nested authentication  
 User-friendly console interface  
