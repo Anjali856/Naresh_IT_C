@@ -1,4 +1,4 @@
-#  Number Grid in C
+  Number Grid in C
 
 This repository contains a simple **C program** that prints a grid of sequential numbers using nested loops.
 
